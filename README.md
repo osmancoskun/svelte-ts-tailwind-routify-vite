@@ -1,6 +1,6 @@
-# Svelte + TS + Vite
+# Svelte + TS + Vite + Tailwind + Routify
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
+This template should help get you started developing with Svelte, TypeScript, Tailwind and Routify in Vite.
 
 ## Recommended IDE Setup
 
